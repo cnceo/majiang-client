@@ -1,0 +1,13 @@
+{
+    "packageUrl": "http://192.168.1.173:8080/zhou/",
+    "remoteManifestUrl": "http://192.168.1.173:8080/zhou/config/project.manifest",
+    "remoteVersionUrl": "http://192.168.1.173:8080/zhou/config/version.manifest",
+    "version" : "1.0.0",
+    "assets" : {
+
+    },
+    "engineVersion" : "3.1",
+    "searchPaths" : [
+
+    ]
+}
